@@ -1,0 +1,1 @@
+This was the first project assigned by The Odin Project. I built the four html pages from scratch and added all of the recipe information from allrecipes.com. I got images from allrecipes.com and giphy. This was a lot of fun to get my feet wet and start putting into practice some of the things I've learned thus far.
